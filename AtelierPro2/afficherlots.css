@@ -1,0 +1,86 @@
+/* Reset some default styles */
+body, h1, h2, h3, p, table {
+    margin: 0;
+    padding: 0;
+}
+
+#footeraffichertout {
+    text-align: center;
+    background-color: #000;
+    color: azure;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #000;
+    color: azure;
+    text-align: center;
+  }
+  
+  li a {
+    display: block;
+    color: azure;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color on hover */
+  li a:hover {
+    background-color: #f1f1f1;
+    color: black;
+  }
+
+.affichertout {
+    width: 200px; /* Largeur de 200 pixels */   
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa; /* Light gray background */
+}
+
+header {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+
+h2 {
+    font-size: 1.5em;
+    color: #343a40;
+}
+
+.table {
+    margin-top: 20px;
+    background-color: #fff;
+}
+
+.table th {
+    background-color: #000;
+    color: #fff;
+}
+
+.table tbody tr:nth-child(even) {
+    background-color: #f2f2f2; /* Alternate row background color */
+}
+
+.table td {
+    padding: 8px;
+}
+
+.container {
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+@media (max-width: 768px) {
+    main {
+        width: 90%;
+    }
+}

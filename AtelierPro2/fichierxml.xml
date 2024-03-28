@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lots>
+    <lot datePeche="2023-11-08" idBateau="20" idEspece="1" idTaille="1" idPresentation="ENT" idQualite="A" idBac="B" poidsBrutLot="null" prixEnchere="null" dateEnchere="null" heureDebutEnchere="null" prixPlancher="null" prixDepart="null" codeEtat="null" id="1"/>
+    <lot datePeche="2023-11-08" idBateau="20" idEspece="1" idTaille="1" idPresentation="ENT" idQualite="A" idBac="A" poidsBrutLot="null" prixEnchere="null" dateEnchere="null" heureDebutEnchere="null" prixPlancher="null" prixDepart="null" codeEtat="null" id="12"/>
+</lots>

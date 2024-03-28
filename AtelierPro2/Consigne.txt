@@ -1,0 +1,4 @@
+
+créer fichier xml factures avec deux exemples
+Créer le même fichier (dans autre fichier)via un PHP et js
+reprendre l3 et faire une requête sql avec for each génération auto du ficchier xml
